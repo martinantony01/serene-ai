@@ -1,0 +1,10 @@
+deep_gram=##########
+groq=############
+Goto the websites and obtain the keys ,Fill in the ####
+
+
+python3 -m venv .env
+pip3 install deepgram-sdk
+pip3 install groq
+pip3 install opencv-python
+pip3 install Flask
